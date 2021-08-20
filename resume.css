@@ -1,0 +1,266 @@
+body{
+    width: auto;
+    height: auto;
+    background-color: (#EEF3FA);
+}
+#wot{
+    width: 700px;
+    height: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:(#daff0b);
+    border-color:#0f7c34; 
+    border-style:solid;
+    border-width:thi;
+}
+  #top-base{
+      width: 700px;
+      height: 210px;
+      background: linear-gradient(rgba(0,0,0,0.9), 
+      rgba(0,0,0,0.9)), url(image/cody.png);
+      background-position: top;
+  }
+  #db{
+      width: 150px;
+      height: 160px;
+      border-top-right-radius: 40px;
+      border-bottom-left-radius:40px;
+      margin: 19px 265px;
+  }
+   #front{
+       color:#9AAAA4;
+       text-align: center;
+       position: relative;top: -25px;
+   }
+  #top-base1{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(7, 4, 4);   
+}
+  #logo{
+      width: 18px;
+      height: 20px;
+      margin: 15px 10px;
+      float: left;
+  }
+  #link{
+      position: relative;
+      top:0px;
+      left: 6px;
+      color: mediumblue;
+      float: left;
+      text-decoration: none;  
+  }
+  a:link{
+      text-decoration: none;
+      color: salmon;
+  }
+  #base1{
+    width: 250px;
+    height: 250px;
+    background-color:#67B7EC;
+    float: left;
+}
+  #name{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium',
+     'Arial Narrow', Arial, sans-serif;
+    text-align: center; 
+   }
+   #mail{
+       width: 18px;
+       height: 18px;
+       float: left;
+       margin: 19px 40px;
+       border-radius: 30px;
+       float: left;
+   }
+   #mel{
+       color: cornsilk;
+       font-size: 12px;
+       float:left;
+       position: relative;
+       top: -18px;
+       left: -18px;
+    }
+    #fon{
+        width: 18px;
+        height: 18px;
+        float: left;
+        margin: -13px 40px;
+        border-radius: 30px;
+        float: left;
+    }
+    #numb{
+        color: cornsilk;
+        font-size: 12px;
+        float:left;
+        position: relative;
+        top: -19px;
+        left: 80px;
+     }
+     #loca{
+        width: 18px;
+        height: 18px;
+        float: left;
+        margin: 28px -24px;
+        border-radius: 30px;
+        float: left;
+    }
+    #adres{
+        color: cornsilk;
+        font-size: 12px;
+        float:left;
+        position: relative;
+        top: 21px;
+        left: 17px;
+     }
+
+  #base2{
+    width: 450px;
+    height: 250px;
+    background-color:#E5F3FC;
+   float: right;
+}
+ #sumary{
+     color: rgb(28, 58, 139);
+     font-size: 20px;
+     position: relative;
+     top: 50px;
+     left: 25px;
+ }
+ #sum{
+     font-size: 13px;
+     position: relative;
+     left: 25px;
+     top: 40px;
+ }
+
+ #clear{
+     clear: both;
+     
+ }
+#base3{
+    width: 250px;
+    height: 490px;
+    background-color:#CCE7FA;
+    float: left;
+}
+#skil{
+    color: rgb(28, 58, 139) ;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times,
+    'Times New Roman', serif;
+    position: relative;
+    left: 40px;
+    top: 9px;
+   }
+   #li{
+       color: rgb(12, 12, 12);
+       font-size: 12px;
+       position: relative;
+       left: 17px;
+       top: 5px;
+   }
+   #study{
+    color: rgb(28, 58, 139);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times,
+    'Times New Roman', serif;
+    position: relative;
+    left: 40px;
+    top: 9px;
+   }
+   #edu{
+    color: #010608;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times,
+    'Times New Roman', serif;
+    position: relative;
+    left: 39px;
+    top: 9px;
+   }
+   #contact{
+       text-align: center;
+       position: relative;
+       top: -6px;
+       color: blue;
+   }
+    #fone{
+        position: relative;
+        top: 9px;
+        left: 10px;
+        font-size: 15px;
+    }
+    #f1{
+        width: 15px;
+        height:15px;
+        margin-top:-3px;
+    }
+    #email{
+        position: relative;
+        top: -5px;
+        left: 10px;
+        font-size: 15px;
+        float:left;
+    }
+    #e1{
+        width: 15px;
+        height:15px;
+        
+    }
+#base4{
+    width: 450px;
+    height: 490px;
+    background-color:#FFFFFF;
+    float: right;
+}
+#work{
+    color: rgb(28, 58, 139);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times,
+    'Times New Roman', serif;
+    position: relative;
+    left: 40px;
+    top: 9px;
+   }
+   #wok{
+    color: rgb(12, 12, 12);
+    font-size: 13px;
+    position: relative;
+    left: 17px;
+    top: 5px;
+}
+hr{
+    width:80%;
+}
+ #services{
+     text-align: center;
+     font-size: 25px;
+     font-weight: bolder;
+     position: relative;
+     top: -15px;
+     color: blue;
+ }
+ #marketing{
+     font-size: 12px;
+     float:left;
+     position: relative;
+     left: 40px;
+     top: -25px;
+   }
+    #m1{
+        width: 30px;
+        margin:-10px 5px;
+    }
+   #design{
+    font-size: 12px;
+    float: right;
+    position: relative;
+    left: -40px;
+    top: -25px;
+  }
+  #d1{
+    width: 30px;
+    margin:-10px 5px;
+}
